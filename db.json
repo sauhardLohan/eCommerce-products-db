@@ -210,15 +210,6 @@
     },
     {
       "id": 24,
-      "title": "Cereals muesli fruit nuts",
-      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-      "price": 46,
-      "rating": 4.94,
-      "brand": "Kellog's",
-      "image": "https://m.media-amazon.com/images/S/aplus-media/sota/23f715e3-e942-4c12-82a1-b0ce0dfdef0d.__CR0,0,300,300_PT0_SX300_V1___.png"
-    },
-    {
-      "id": 25,
       "title": "Gulab Powder 50 Gram",
       "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
       "price": 70,
@@ -227,7 +218,7 @@
       "image": "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
     },
     {
-      "id": 26,
+      "id": 25,
       "title": "Plant Hanger For Home",
       "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
       "price": 41,
@@ -236,7 +227,7 @@
       "image": "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
     },
     {
-      "id": 27,
+      "id": 26,
       "title": "Flying Wooden Bird",
       "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
       "price": 51,
@@ -245,7 +236,7 @@
       "image": "https://i.dummyjson.com/data/products/27/thumbnail.webp"
     },
     {
-      "id": 28,
+      "id": 27,
       "title": "3D Embellishment Art Lamp",
       "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
       "price": 20,
@@ -254,16 +245,7 @@
       "image": "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
     },
     {
-      "id": 29,
-      "title": "Handcraft Chinese style",
-      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
-      "price": 60,
-      "rating": 4.44,
-      "brand": "luxury palace",
-      "image": "https://ae01.alicdn.com/kf/S5db771320f45409dad04319c22aed743p/High-End-Chinese-Style-Metal-Pagoda-Chinese-Style-Decoration-Fashion-Simple-Hotel-Decorations-Handicraft-Equipment-Ornaments.jpg_Q90.jpg_.webp"
-    },
-    {
-      "id": 30,
+      "id": 28,
       "title": "Key Holder",
       "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
       "price": 30,
